@@ -13,7 +13,10 @@
 	
 ## <picture><img src = "https://i0.wp.com/shakaran.net/blog/wp-content/uploads/2013/04/mother-of-god.gif?resize=262%2C200" width = 50px></picture> **About me**
 
-<picture> <img align="hhttps://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width = 250px></picture>
+<picture>
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" alt="Programming Frog" width="250px">
+</picture>
+
 
 <br>
 

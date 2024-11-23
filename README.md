@@ -11,9 +11,9 @@
 
 
 	
-## <picture><img src = "https://i0.wp.com/shakaran.net/blog/wp-content/uploads/2013/04/mother-of-god.gif?resize=262%2C200" width = 50px></picture> **About me**
+## <picture><img src = "https://data.textstudio.com/output/sample/animated/8/9/4/5/my-3-5498.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="https://i0.wp.com/shakaran.net/blog/wp-content/uploads/2013/04/mother-of-god.gif?resize=262%2C200" width = 250px></picture>
 
 <br>
 

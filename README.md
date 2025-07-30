@@ -21,8 +21,9 @@
 
 <br>
 
-- Coding in my free time 
-- Building web projects
+-Self-taught full stack developer passionate about web technologies  
+-Coding in my free time  
+-Currently learning web development
 
 
 

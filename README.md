@@ -20,9 +20,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end 
-- Learning in my free time
-- Currently learning Web Development 
+- Coding in my free time 
+- Building web projects
+
 
 
 <br><br>

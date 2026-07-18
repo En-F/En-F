@@ -131,6 +131,13 @@
 <br>
 
 <li>
+<a href="https://www.infojobs.net/candidate/cv/view/index.xhtml" target="_blank">
+  <img src="https://img.shields.io/badge/InfoJobs-%23FF6600.svg?style=for-the-badge&logo=infojobs&logoColor=white" alt="infojobs" style="margin-bottom: 5px;" />
+</a>
+</li>
+<br>
+
+<li>
 <a href="https://x.com/Enrique_Fr_Ul" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>

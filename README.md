@@ -115,10 +115,10 @@
 
 <div align="center">
   <a href="https://github.com/En-F/TU-REPOSITORIO-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=En-F&repo=TU-REPOSITORIO-1&theme=tokyonight&show_owner=true" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=En-F&repo=Arena_proyecto-1&theme=tokyonight&show_owner=true" width="400"/>
   </a>
   <a href="https://github.com/En-F/TU-REPOSITORIO-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=En-F&repo=TU-REPOSITORIO-2&theme=tokyonight&show_owner=true" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=En-F&repo=Carrito-Compra-React-2&theme=tokyonight&show_owner=true" width="400"/>
   </a>
 </div>
 

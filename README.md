@@ -106,25 +106,6 @@
 <br>
 <br>
 <br>
-
------
-
------
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos Destacados </b>
-<br>
-
-<div align="center">
-  <a href="https://github.com/En-F/TU-REPOSITORIO-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=En-F&repo=Arena_proyecto-1&theme=tokyonight&show_owner=true" width="400"/>
-  </a>
-  <a href="https://github.com/En-F/TU-REPOSITORIO-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=En-F&repo=Carrito-Compra-React-2&theme=tokyonight&show_owner=true" width="400"/>
-  </a>
-</div>
-
-<br>
-<br>
------
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
